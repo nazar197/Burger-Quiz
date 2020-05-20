@@ -1,0 +1,80 @@
+{
+    "questions": [
+        {
+            "question": "Колір булочки?",
+            "answers": [
+                {
+                    "title": "Світла",
+                    "url": "./image/burger.png"
+                },
+                {
+                    "title": "Темна",
+                    "url": "./image/burgerBlack.png"
+                }
+            ],
+            "type": "radio"
+        },
+        {
+            "question": "Виберіть котлету",
+            "answers": [
+                {
+                    "title": "Курка",
+                    "url": "./image/chickenMeat.png"
+                },
+                {
+                    "title": "Телятина",
+                    "url": "./image/beefMeat.png"
+                },
+                {
+                    "title": "Свинина",
+                    "url": "./image/porkMeat.png"
+                },
+                {
+                    "title": "Без м'яса",
+                    "url": "./image/noMeat.png"
+                }
+            ],
+            "type": "radio"
+        },
+        {
+            "question": "Додаткові інгредієнти?",
+            "answers": [
+                {
+                    "title": "Помідор",
+                    "url": "./image/tomato.png"
+                },
+                {
+                    "title": "Огірок",
+                    "url": "./image/cucumber.png"
+                },
+                {
+                    "title": "Салат",
+                    "url": "./image/salad.png"
+                },
+                {
+                    "title": "Цибуля",
+                    "url": "./image/onion.png"
+                }
+            ],
+            "type": "checkbox"
+        },
+        {
+            "question": "Додати соус?",
+            "answers": [
+                {
+                    "title": "Часниковий",
+                    "url": "./image/sauce1.png"
+                },
+                {
+                    "title": "Томатний",
+                    "url": "./image/sauce2.png"
+                },
+                {
+                    "title": "Гірчичний",
+                    "url": "./image/sauce3.png"
+                }
+            ],
+            "type": "radio"
+        }
+    ]
+}
